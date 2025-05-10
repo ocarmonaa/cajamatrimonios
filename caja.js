@@ -407,7 +407,7 @@ class CajaMatrimonios {
         const { jsPDF } = window.jspdf;
         const doc = new jsPDF();
 
-        const logoUrl = 'https://i.ibb.co/FqWn33J9/LOGO-2.png';
+        const logoUrl = 'https://i.ibb.co/ymKMmF5Z/IMG-20250507-WA0014.jpg';
         const img = new Image();
         img.src = logoUrl;
 
