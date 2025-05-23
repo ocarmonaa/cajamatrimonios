@@ -415,7 +415,7 @@ class CajaMatrimonios {
             doc.addImage(img, 'PNG', 15, 10, 30, 30);
             doc.setFontSize(16);
             doc.setFont('helvetica', 'bold');
-            doc.text('MATRIMONIOS EN CRISTO', 50, 20);
+            doc.text('MATRIMONIOS DE NAZARET', 50, 20);
             doc.setFontSize(12);
             doc.setFont('helvetica', 'normal');
             doc.text('Parroquia de San Bartolomé Apóstol', 50, 27);
